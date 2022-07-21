@@ -1,14 +1,10 @@
-<!---
-PNeil95/PNeil95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2 align="left">Hi 👋! My name is Paolo and I'm a Passionate about technology 💜. I'm fascinated 🧑‍💻by web and mobile programming.🤖</h2>
+<h2 align="left">Hi 👋! My name is Paolo<br>I'm a Passionate about technology 💜.<br> I'm fascinated 🧑‍💻by web and mobile programming.🤖</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=PNeil" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=PNeil" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=PNeil95" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=PNeil95" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -43,6 +39,16 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/PNeil/PNeil/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/PNeil95/PNeil95/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+</div>
 
 ###
