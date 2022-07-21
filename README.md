@@ -37,14 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/PNeil95/PNeil95/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
