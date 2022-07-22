@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Paolo<br>I'm a Passionate about technology 💜.<br> I'm fascinated 🧑‍💻by web and mobile programming.🤖</h2>
+<h2 align="left">Hi 👋! My name is Paolo.<br>I'm a Passionate about technology 💜<br>I'm fascinated 🧑‍💻by web and mobile programming🤖</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif"  />
 
 ###
 
@@ -28,12 +28,21 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCo3_FRqDeChnY7UoqtrN6LQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.linkedin.com/in/paolonvb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/PNeil95/PNeil95/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
 </div>
 
 ###
